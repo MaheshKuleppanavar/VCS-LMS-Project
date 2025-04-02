@@ -1,0 +1,39 @@
+
+.button{
+    background-color: #5548CF;
+    border:none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius:8px;
+    width:100%;
+}
+
+.out-button{
+    background-color: white;
+    color:#5548CF;
+    border: 2px solid #5548CF;
+    border-radius:8px;
+    font-size: 20px;
+    font-weight: 600;
+    width:100%;
+}
+
+.button1{
+    background-color: #5548CF;
+    border:none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius:8px;
+    border: 2px solid #5548CF;
+}
+
+.out-button1{
+    background-color: white;
+    color:#5548CF;
+    border: 2px solid #5548CF;
+    border-radius:8px;
+    font-size: 20px;
+    font-weight: 600;
+}
