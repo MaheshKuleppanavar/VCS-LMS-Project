@@ -44,6 +44,6 @@ This project is licensed under the MIT License.
 
 ## 📩 Contact
 For any inquiries, feel free to reach out:
-- **GitHub:** [MaheshKuleppanavar](https://github.com/MaheshKuleppanavar)
-- **Email:** (Your Email Here)
+- **GitHub:** [Mahesh Kuleppanavar](https://github.com/MaheshKuleppanavar)
+- **Email:** maheshkudleppanavar@gmail.com
 
